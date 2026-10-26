@@ -1,0 +1,4 @@
+For this program I would like for you to generate API endpoints based on FastAPI for a CRUD based system that will be used to track 
+vehicle manufacturer brands along with details regarding the vehicles they make. The details can be the make, model, and year that the 
+vehicle was manufactured in. This system should use a in-memory database to keep track of manufacturers and their vehicles as well as 
+a uv project structure to ensure it is running smoothly.
